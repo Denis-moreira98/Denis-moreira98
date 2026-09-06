@@ -9,30 +9,30 @@
       "location": "Recife, Brazil",
       "status": "Building / Learning / Shipping",
       "about": [
-         "I build modern web and mobile applications with a strong focus on React Native, React, Next.js, TypeScript, and Node.js.",
-         "My work combines software architecture, performance, testing, and CI/CD to build reliable, scalable, and maintainable products."
+         "Desenvolvo aplicações web e mobile modernas, com foco em React Native, React, Next.js, TypeScript e Node.js.",
+         "Meu trabalho combina arquitetura de software, performance, testes e CI/CD para desenvolver produtos confiáveis, escaláveis e de fácil manutenção."
       ]
    },
 
    "research": {
-      "primary": "Software Architecture",
-      "direction": "Scalable web and mobile applications",
-      "themes": "Architecture / Performance / Testing",
-      "narrative": "I am interested in building reliable software systems with clean architecture, maintainable code, strong testing practices, and efficient development workflows."
+      "primary": "Arquitetura de Software",
+      "direction": "Aplicações web e mobile escaláveis",
+      "themes": "Arquitetura / Performance / Testes",
+      "narrative": "Tenho interesse em desenvolver sistemas de software confiáveis, utilizando arquitetura limpa, código de fácil manutenção, boas práticas de testes e processos eficientes de desenvolvimento."
    },
 
    "focus": [
       {
          "name": "React Native",
-         "description": "Building cross-platform mobile applications for Android and iOS with scalable and maintainable architectures."
+         "description": "Desenvolvimento de aplicações mobile multiplataforma para Android e iOS, utilizando arquiteturas escaláveis e de fácil manutenção."
       },
       {
-         "name": "Full Stack Development",
-         "description": "Developing modern web applications and APIs using React, Next.js, Node.js, TypeScript, and databases."
+         "name": "Desenvolvimento Full Stack",
+         "description": "Desenvolvimento de aplicações web modernas e APIs utilizando React, Next.js, Node.js, TypeScript e bancos de dados."
       },
       {
-         "name": "Software Architecture",
-         "description": "Applying Clean Architecture, MVVM, MVC, and scalable patterns to build maintainable software."
+         "name": "Arquitetura de Software",
+         "description": "Aplicação de Clean Architecture, MVVM, MVC e padrões escaláveis para desenvolver sistemas organizados e de fácil manutenção."
       }
    ],
 
@@ -41,41 +41,41 @@
          "name": "Moreira Pizzas",
          "url": "https://github.com/devdenismoreira/sistem-moreira-pizzas",
          "homepage": "",
-         "focus": "Web application",
-         "summary": "A web application project focused on building a practical business system with modern web development technologies.",
-         "heroLabel": "Featured project"
+         "focus": "Aplicação Web",
+         "summary": "Aplicação web voltada para um sistema de negócio, desenvolvida utilizando tecnologias modernas de desenvolvimento web.",
+         "heroLabel": "Projeto em destaque"
       },
       {
          "name": "WebCarros",
          "url": "https://github.com/devdenismoreira/projeto_webcarros",
          "homepage": "",
-         "focus": "Web application",
-         "summary": "A web application focused on vehicle listings and marketplace functionality.",
-         "heroLabel": "Featured project"
+         "focus": "Aplicação Web",
+         "summary": "Aplicação web voltada para anúncios de veículos e funcionalidades de marketplace.",
+         "heroLabel": "Projeto em destaque"
       },
       {
          "name": "DSM Store",
          "url": "https://github.com/devdenismoreira/dsm-store",
          "homepage": "",
          "focus": "E-commerce",
-         "summary": "An e-commerce project focused on product browsing and modern frontend development.",
-         "heroLabel": "Featured project"
+         "summary": "Projeto de e-commerce focado em navegação de produtos e desenvolvimento de interfaces modernas.",
+         "heroLabel": "Projeto em destaque"
       },
       {
          "name": "API Pizzaria",
          "url": "https://github.com/devdenismoreira/api-pizzaria",
          "homepage": "",
-         "focus": "Backend API",
-         "summary": "A backend API project demonstrating REST API development, backend architecture, and data management.",
-         "heroLabel": "Backend project"
+         "focus": "API Backend",
+         "summary": "API backend desenvolvida para demonstrar criação de APIs REST, arquitetura backend e gerenciamento de dados.",
+         "heroLabel": "Projeto Backend"
       },
       {
          "name": "Dev Helpdesk",
          "url": "https://github.com/devdenismoreira/dev-helpdesk",
          "homepage": "",
          "focus": "Full Stack",
-         "summary": "A helpdesk application focused on support request management and full stack application development.",
-         "heroLabel": "Full Stack project"
+         "summary": "Aplicação de helpdesk voltada para gerenciamento de solicitações de suporte e desenvolvimento Full Stack.",
+         "heroLabel": "Projeto Full Stack"
       }
    ],
 
@@ -116,8 +116,8 @@
          "color": "0A66C2"
       },
       {
-         "label": "Portfolio",
-         "value": "Portfolio",
+         "label": "Portfólio",
+         "value": "Portfólio",
          "url": "https://denis-moreira-portfolio.vercel.app/",
          "logo": "globe",
          "color": "FF7043"
@@ -133,5 +133,5 @@
       "palette": "signal"
    },
 
-   "footer": "Building scalable software and sharing what works."
+   "footer": "Construindo software escalável e compartilhando o que funciona."
 }
