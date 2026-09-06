@@ -1,0 +1,137 @@
+{
+   "$schema": "./profile.schema.json",
+
+   "profile": {
+      "name": "Denis Moreira",
+      "username": "devdenismoreira",
+      "headline": "Full Stack / Frontend / Mobile Developer",
+      "affiliation": "Software Developer",
+      "location": "Recife, Brazil",
+      "status": "Building / Learning / Shipping",
+      "about": [
+         "I build modern web and mobile applications with a strong focus on React Native, React, Next.js, TypeScript, and Node.js.",
+         "My work combines software architecture, performance, testing, and CI/CD to build reliable, scalable, and maintainable products."
+      ]
+   },
+
+   "research": {
+      "primary": "Software Architecture",
+      "direction": "Scalable web and mobile applications",
+      "themes": "Architecture / Performance / Testing",
+      "narrative": "I am interested in building reliable software systems with clean architecture, maintainable code, strong testing practices, and efficient development workflows."
+   },
+
+   "focus": [
+      {
+         "name": "React Native",
+         "description": "Building cross-platform mobile applications for Android and iOS with scalable and maintainable architectures."
+      },
+      {
+         "name": "Full Stack Development",
+         "description": "Developing modern web applications and APIs using React, Next.js, Node.js, TypeScript, and databases."
+      },
+      {
+         "name": "Software Architecture",
+         "description": "Applying Clean Architecture, MVVM, MVC, and scalable patterns to build maintainable software."
+      }
+   ],
+
+   "projects": [
+      {
+         "name": "Moreira Pizzas",
+         "url": "https://github.com/devdenismoreira/sistem-moreira-pizzas",
+         "homepage": "",
+         "focus": "Web application",
+         "summary": "A web application project focused on building a practical business system with modern web development technologies.",
+         "heroLabel": "Featured project"
+      },
+      {
+         "name": "WebCarros",
+         "url": "https://github.com/devdenismoreira/projeto_webcarros",
+         "homepage": "",
+         "focus": "Web application",
+         "summary": "A web application focused on vehicle listings and marketplace functionality.",
+         "heroLabel": "Featured project"
+      },
+      {
+         "name": "DSM Store",
+         "url": "https://github.com/devdenismoreira/dsm-store",
+         "homepage": "",
+         "focus": "E-commerce",
+         "summary": "An e-commerce project focused on product browsing and modern frontend development.",
+         "heroLabel": "Featured project"
+      },
+      {
+         "name": "API Pizzaria",
+         "url": "https://github.com/devdenismoreira/api-pizzaria",
+         "homepage": "",
+         "focus": "Backend API",
+         "summary": "A backend API project demonstrating REST API development, backend architecture, and data management.",
+         "heroLabel": "Backend project"
+      },
+      {
+         "name": "Dev Helpdesk",
+         "url": "https://github.com/devdenismoreira/dev-helpdesk",
+         "homepage": "",
+         "focus": "Full Stack",
+         "summary": "A helpdesk application focused on support request management and full stack application development.",
+         "heroLabel": "Full Stack project"
+      }
+   ],
+
+   "techStack": [
+      "TypeScript",
+      "JavaScript",
+      "React",
+      "React Native",
+      "Next.js",
+      "Node.js",
+      "NestJS",
+      "Express",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "Prisma",
+      "Docker",
+      "AWS",
+      "GitHub Actions",
+      "Jest",
+      "Vitest",
+      "React Testing Library"
+   ],
+
+   "links": [
+      {
+         "label": "GitHub",
+         "value": "devdenismoreira",
+         "url": "https://github.com/devdenismoreira",
+         "logo": "github",
+         "color": "0B1220"
+      },
+      {
+         "label": "LinkedIn",
+         "value": "linkedin.com/in/denismoreira",
+         "url": "https://linkedin.com/in/denismoreira",
+         "logo": "linkedin",
+         "color": "0A66C2"
+      },
+      {
+         "label": "Portfolio",
+         "value": "Portfolio",
+         "url": "https://denis-moreira-portfolio.vercel.app/",
+         "logo": "globe",
+         "color": "FF7043"
+      }
+   ],
+
+   "activity": {
+      "enabled": true,
+      "limit": 6
+   },
+
+   "appearance": {
+      "palette": "signal"
+   },
+
+   "footer": "Building scalable software and sharing what works."
+}
