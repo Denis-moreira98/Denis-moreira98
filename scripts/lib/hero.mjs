@@ -66,14 +66,9 @@ function buildProfileLines(config) {
     { type: "row", key: "Direction", value: config.research.direction },
     { type: "row", key: "Themes", value: config.research.themes },
     { type: "blank" },
-    { type: "section", value: "BUILD.LOG" }
+    { type: "section", value: "GRID.LINKS" }
   ];
 
-  config.projects.slice(0, 4).forEach((project) => {
-    lines.push({ type: "row", key: project.name, value: project.heroLabel });
-  });
-
-  lines.push({ type: "blank" }, { type: "section", value: "GRID.LINKS" });
   config.links.slice(0, 2).forEach((link) => {
     lines.push({ type: "row", key: link.label, value: link.value });
   });
@@ -225,7 +220,7 @@ function createHeroSvg(config, colors, size, portrait) {
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${layout.width}" height="${layout.height}" viewBox="0 0 ${layout.width} ${layout.height}" role="img" aria-labelledby="title description">
 <title id="title">${escapeXml(config.profile.name)} - ${escapeXml(config.profile.headline)}</title>
-<desc id="description">An animated profile console with an ASCII portrait, professional focus, featured projects, and public links.</desc>
+<desc id="description">An animated profile console with an ASCII portrait, professional focus, and public links.</desc>
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${colors.backgroundStart}"/><stop offset="1" stop-color="${colors.backgroundEnd}"/></linearGradient>
   <linearGradient id="ascii-signal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="${colors.cyan}"><animate attributeName="stop-color" values="${colors.cyan};${colors.violet};${colors.blue};${colors.cyan}" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="${colors.violet}"><animate attributeName="stop-color" values="${colors.violet};${colors.blue};${colors.cyan};${colors.violet}" dur="9s" repeatCount="indefinite"/></stop></linearGradient>

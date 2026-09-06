@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="1080" viewBox="0 0 720 1080" role="img" aria-labelledby="title description">
 <title id="title">Denis Moreira - Full Stack / Frontend / Mobile Developer</title>
-<desc id="description">An animated profile console with an ASCII portrait, professional focus, featured projects, and public links.</desc>
+<desc id="description">An animated profile console with an ASCII portrait, professional focus, and public links.</desc>
 <defs>
   <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020617"/><stop offset="1" stop-color="#11152F"/></linearGradient>
   <linearGradient id="ascii-signal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#7C3AED;#38BDF8;#22D3EE" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#38BDF8;#22D3EE;#7C3AED" dur="9s" repeatCount="indefinite"/></stop></linearGradient>
@@ -25,11 +25,6 @@
 <clipPath id="system-line-13"><rect x="69" y="778.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.04s" fill="freeze"/></rect></clipPath>
 <clipPath id="system-line-14"><rect x="69" y="799.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.15s" fill="freeze"/></rect></clipPath>
 <clipPath id="system-line-15"><rect x="69" y="820.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.25s" fill="freeze"/></rect></clipPath>
-<clipPath id="system-line-16"><rect x="69" y="841.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.36s" fill="freeze"/></rect></clipPath>
-<clipPath id="system-line-18"><rect x="69" y="883.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.57s" fill="freeze"/></rect></clipPath>
-<clipPath id="system-line-19"><rect x="69" y="904.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.67s" fill="freeze"/></rect></clipPath>
-<clipPath id="system-line-20"><rect x="69" y="925.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.78s" fill="freeze"/></rect></clipPath>
-<clipPath id="system-line-21"><rect x="69" y="946.00" width="0" height="21"><animate attributeName="width" from="0" to="574" dur="0.36s" begin="2.89s" fill="freeze"/></rect></clipPath>
   <style>
     .mono { font-family: 'Courier New', Consolas, monospace; }
     .ascii { font-family: 'Courier New', Consolas, monospace; font-size: 6.6px; letter-spacing: -0.15px; fill: url(#ascii-signal); }
@@ -123,20 +118,15 @@
 <g clip-path="url(#system-line-4)"><text x="72" y="604" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Base</tspan><tspan fill="#64748B">: .......... </tspan><tspan fill="#E5E7EB">Recife, Brazil</tspan></text></g>
 <g clip-path="url(#system-line-5)"><text x="72" y="625" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Status</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">Building / Learning / Shipping</tspan></text></g>
 <g clip-path="url(#system-line-7)"><text x="72" y="667" class="system-section" fill="#10B981">- RESEARCH.NODE -----------------------------------</text></g>
-<g clip-path="url(#system-line-8)"><text x="72" y="688" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Primary</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#E5E7EB">Arquitetura de Software</tspan></text></g>
-<g clip-path="url(#system-line-9)"><text x="72" y="709" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Direction</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#E5E7EB">Aplicações web e mobile escaláveis</tspan></text></g>
-<g clip-path="url(#system-line-10)"><text x="72" y="730" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Themes</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">Arquitetura / Performance / Testes</tspan></text></g>
-<g clip-path="url(#system-line-12)"><text x="72" y="772" class="system-section" fill="#10B981">- BUILD.LOG -----------------------------------</text></g>
-<g clip-path="url(#system-line-13)"><text x="72" y="793" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Moreira Pizzas</tspan><tspan fill="#64748B">: ... </tspan><tspan fill="#E5E7EB">Projeto em destaque</tspan></text></g>
-<g clip-path="url(#system-line-14)"><text x="72" y="814" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">WebCarros</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#E5E7EB">Projeto em destaque</tspan></text></g>
-<g clip-path="url(#system-line-15)"><text x="72" y="835" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">DSM Store</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#E5E7EB">Projeto em destaque</tspan></text></g>
-<g clip-path="url(#system-line-16)"><text x="72" y="856" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">API Pizzaria</tspan><tspan fill="#64748B">: ... </tspan><tspan fill="#E5E7EB">Projeto Backend</tspan></text></g>
-<g clip-path="url(#system-line-18)"><text x="72" y="898" class="system-section" fill="#10B981">- GRID.LINKS -----------------------------------</text></g>
-<g clip-path="url(#system-line-19)"><text x="72" y="919" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">GitHub</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">devdenismoreira</tspan></text></g>
-<g clip-path="url(#system-line-20)"><text x="72" y="940" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">LinkedIn</tspan><tspan fill="#64748B">: ...... </tspan><tspan fill="#E5E7EB">linkedin.com/in/denismoreira</tspan></text></g>
-<g clip-path="url(#system-line-21)"><text x="72" y="961" class="system-footer" fill="#38BDF8">signal.locked &gt; PROFILE / BUILD / SHARE</text></g>
-<rect x="74" y="946" width="9" height="15" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.03;0.06;0.32;0.5;0.68;0.84;1" dur="1.4s" begin="3.3s" repeatCount="indefinite"/></rect>
-<text x="360" y="1045" text-anchor="middle" class="mono" font-size="10" letter-spacing="1.5" fill="#64748B">REACT NATIVE / DESENVOLVIMENTO FULL STACK / ARQUITETURA DE SOFTW</text>
+<g clip-path="url(#system-line-8)"><text x="72" y="688" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Primary</tspan><tspan fill="#64748B">: ....... </tspan><tspan fill="#E5E7EB">Software Architecture</tspan></text></g>
+<g clip-path="url(#system-line-9)"><text x="72" y="709" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Direction</tspan><tspan fill="#64748B">: ..... </tspan><tspan fill="#E5E7EB">Scalable web and mobile applications</tspan></text></g>
+<g clip-path="url(#system-line-10)"><text x="72" y="730" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">Themes</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">Architecture / Performance / Testing / UI/UX</tspan></text></g>
+<g clip-path="url(#system-line-12)"><text x="72" y="772" class="system-section" fill="#10B981">- GRID.LINKS -----------------------------------</text></g>
+<g clip-path="url(#system-line-13)"><text x="72" y="793" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">GitHub</tspan><tspan fill="#64748B">: ........ </tspan><tspan fill="#E5E7EB">devdenismoreira</tspan></text></g>
+<g clip-path="url(#system-line-14)"><text x="72" y="814" class="system-row"><tspan fill="#64748B">. </tspan><tspan class="system-key" fill="#22D3EE">LinkedIn</tspan><tspan fill="#64748B">: ...... </tspan><tspan fill="#E5E7EB">linkedin.com/in/denismoreira</tspan></text></g>
+<g clip-path="url(#system-line-15)"><text x="72" y="835" class="system-footer" fill="#38BDF8">signal.locked &gt; PROFILE / BUILD / SHARE</text></g>
+<rect x="74" y="820" width="9" height="15" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.03;0.06;0.32;0.5;0.68;0.84;1" dur="1.4s" begin="3.3s" repeatCount="indefinite"/></rect>
+<text x="360" y="1045" text-anchor="middle" class="mono" font-size="10" letter-spacing="1.5" fill="#64748B">REACT NATIVE / FULL STACK DEVELOPMENT / SOFTWARE ARCHITECTURE</text>
 <rect x="0" y="-70" width="720" height="70" fill="url(#scan)" opacity="0.72" style="mix-blend-mode:screen"><animateTransform attributeName="transform" type="translate" from="0 -70" to="0 1150" dur="4.5s" repeatCount="indefinite"/></rect>
 <rect x="3" y="3" width="714" height="1074" rx="20" fill="none" stroke="url(#border)" stroke-width="2" opacity="0.76"><animate attributeName="opacity" values="0.5;0.94;0.5" dur="3.4s" repeatCount="indefinite"/></rect>
 </svg>

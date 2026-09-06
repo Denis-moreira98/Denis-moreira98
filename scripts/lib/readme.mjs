@@ -28,17 +28,6 @@ function renderFocus(focus) {
   ].join("\n");
 }
 
-function renderProjects(projects) {
-  return [
-    "| Project | Focus | Why it matters |",
-    "| --- | --- | --- |",
-    ...projects.map((project) => {
-      const homepage = project.homepage ? ` [Live](${project.homepage})` : "";
-      return `| [**${escapeCell(project.name)}**](${project.url}) | ${escapeCell(project.focus)} | ${escapeCell(project.summary)}${homepage} |`;
-    })
-  ].join("\n");
-}
-
 function extractActivity(readme) {
   const startIndex = readme.indexOf(ACTIVITY_START);
   const endIndex = readme.indexOf(ACTIVITY_END);
@@ -87,10 +76,6 @@ ${about}
 ## Current Focus
 
 ${renderFocus(config.focus)}
-
-## Featured Work
-
-${renderProjects(config.projects)}
 
 ## Research Direction
 
